@@ -5,6 +5,10 @@ draft: false
 type: "effective-altruism"
 ---
 
-Effective altruism is a social movement and philosophy that applies evidence and reason to determine the most effective ways to improve the world. Effective altruists aim to consider all causes and actions, and then act in the way that brings about the greatest positive impact. It is this broad evidence-based approach that distinguishes effective altruism from traditional altruism or charity. While a substantial proportion of effective altruists have focused on the nonprofit sector, the philosophy of effective altruism applies much more broadly, e.g., to prioritizing the scientific projects, companies, and policy initiatives which can be estimated to save and improve the most lives.
+Effective altruism is about answering one simple question: how can we use our resources to help others the most?
 
-We are excited to be a part of this movement and hope you’ll join us.
+Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on.
+
+But it's no use answering the question unless you act on it. Effective altruism is about following through. It's about being generous with your time and your money to do the most good you can.
+
+Read more [here](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
