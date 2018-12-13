@@ -53,5 +53,3 @@ __**[The Humane League](https://thehumaneleague.org/)**__ has built an especiall
 __**[The Life You Can Save](https://www.thelifeyoucansave.org/)**__ is a non-profit founded by philosopher Peter Singer. It promotes effective giving – with a focus on reducing poverty and economic inequality – through public outreach. TLYCS seeks to create local groups of informed givers and a global online community, and encourages individuals to sign its charitable-donation pledge.
 
 Several organizations are focused on existential risk and the far future of humanity. **[The Future of Humanity Institute (FHI)](https://www.fhi.ox.ac.uk/)**, the **[Centre for the Study of Existential Risk (CSER)](https://www.cser.ac.uk/)**, and the **[Future of Life Institute (FLI)](https://futureoflife.org/)** use the tools of mathematics, philosophy, and science to research big-picture questions about the future of humankind.
-
-Additionally, many individual writers and other sites have interesting material on effective altruism, some of which can be found **[here](https://eahub.org/links#blogs)**.
