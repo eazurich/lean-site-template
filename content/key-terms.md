@@ -8,7 +8,7 @@ draft: false
 <br>
 
 #### Core Ideas
-**Effective Altruism** (EA) is the name of a growing social movement and an idea – based around using evidence and reason to find the most effective possible ways of doing good in the world. An effective altruist is someone who identifies with and tries to act according to the principles of Effective Altruism.
+**Effective Altruism** (EA) is the name of a growing social movement and an idea – based around using careful reasoning to find the most effective possible ways of doing good in the world. An effective altruist is someone who identifies with and tries to act according to the principles of Effective Altruism.
 
 **Cost-effectiveness**: The cost-effectiveness of a charitable intervention simply refers to how much good it does with a certain amount of resources. The cost-effectiveness of a donation to a charity typically refers to how much good the donation does *on the margin* e.g. if you donate $100 to a charity, how much *extra* impact will be produced.
 
@@ -30,8 +30,6 @@ draft: false
 
 **Population ethics**: Population ethics asks questions such as whether it is better to bring about a larger total amount of happiness in the world (e.g. by having a higher population that is less happy) or a smaller population who are happier on average, and whether we ought to count causing new happy people to be born in the future as equally important as making people who currently exist happy.
 Population ethics is a source of significant disagreement among philosophers in general and effective altruists.
-
-**Rationalism**: Rationalism is an approach to improving one's thinking and an associated community, interested in studying cognitive biases, statistics. 
 
 **Earning to Give**: Earning to Give refers to the practice of choosing a career not for its direct impact but for its salary, and then donating a significant portion of this salary to effective charities. Earning to give can sometimes be more effective than direct work, through your donations allowing others to do more good than you would directly.
 

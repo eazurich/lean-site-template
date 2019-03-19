@@ -1,6 +1,6 @@
 #### More on EA
 
 * [Intro to effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/)
-* [**Video:** The Why and How of Effective Altruism](https://www.youtube.com/watch?v=Diuv3XZQXyc)
-* [Giving 101: The Basics](https://www.givewell.org/giving101)
-* [_Doing Good Better_ by Will MacAskill](https://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105/)
+* [**Video:** What are the most important moral problems of our time?](https://www.youtube.com/watch?v=WyprXhvGVYk&t=1s)
+* [80.000 Hours career guide](https://80000hours.org/career-guide/)
+* [EA Forum](https://forum.effectivealtruism.org/)
